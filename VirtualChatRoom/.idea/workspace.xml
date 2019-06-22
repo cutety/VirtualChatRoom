@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06816f48-73b6-4360-911d-802433c307c0" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../VirtualChatRoomServer/src/frame/MyRegisterFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../VirtualChatRoomServer/src/frame/MyServerFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+              <folding>
+                <element signature="e#336#337#0" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/frame/LoginFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>请求退出</find>
+      <find>color</find>
+      <find>615</find>
+      <find>mousePressed</find>
+      <find>message_ret_onLineFriend</find>
+      <find>close</find>
+      <find>Dragged</find>
+      <find>group</find>
+      <find>null</find>
+      <find>showme</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>715</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/frame/FrameTools/JIMSendTextPane.java" />
+        <option value="$PROJECT_DIR$/src/bean/User.java" />
+        <option value="$PROJECT_DIR$/../VirtualChatRoomServer/src/bean/User.java" />
+        <option value="$PROJECT_DIR$/../VirtualChatRoomServer/src/dao/SelectQuery.java" />
+        <option value="$PROJECT_DIR$/../VirtualChatRoomServer/src/model/ClientConServer.java" />
+        <option value="$PROJECT_DIR$/src/tools/ManageFriends.java" />
+        <option value="$PROJECT_DIR$/../VirtualChatRoomServer/src/model/MyServer.java" />
+        <option value="$PROJECT_DIR$/src/tools/IpTest.java" />
+        <option value="$PROJECT_DIR$/src/frame/FrameTools/ScrollBarUi.java" />
+        <option value="$PROJECT_DIR$/../VirtualChatRoomServer/src/Functions/FileTransfer.java" />
+        <option value="$PROJECT_DIR$/src/tools/FileTranserClient.java" />
+        <option value="$PROJECT_DIR$/../VirtualChatRoomServer/src/model/FileTransferServer.java" />
+        <option value="$PROJECT_DIR$/src/tools/FileTransferClient.java" />
+        <option value="$PROJECT_DIR$/../VirtualChatRoomServer/src/model/CheckTableExists.java" />
+        <option value="$PROJECT_DIR$/../VirtualChatRoomServer/src/frame/MyRegisterFrame.java" />
+        <option value="$PROJECT_DIR$/src/frame/FrameTools/HorseRaceLightTextField.java" />
+        <option value="$PROJECT_DIR$/src/frame/FrameTools/HorseRaceLight.java" />
+        <option value="$PROJECT_DIR$/src/frame/FrameTools/ThreadGroupUtil.java" />
+        <option value="$PROJECT_DIR$/src/frame/FrameTools/MyTf.java" />
+        <option value="$PROJECT_DIR$/src/frame/FrameTools/TestRoll.java" />
+        <option value="$PROJECT_DIR$/src/frame/FrameTools/HorseRaceLightJtextField.java" />
+        <option value="$PROJECT_DIR$/src/bean/MessageType.java" />
+        <option value="$PROJECT_DIR$/../VirtualChatRoomServer/src/bean/MessageType.java" />
+        <option value="$PROJECT_DIR$/../VirtualChatRoomServer/src/dao/ReturnAllOnlineFriendInfo.java" />
+        <option value="$PROJECT_DIR$/src/tools/ManageFirendList.java" />
+        <option value="$PROJECT_DIR$/../VirtualChatRoomServer/src/Functions/Task.java" />
+        <option value="$PROJECT_DIR$/src/model/ClientConServer.java" />
+        <option value="$PROJECT_DIR$/src/model/ClientTranserFile.java" />
+        <option value="$PROJECT_DIR$/../VirtualChatRoomServer/src/Functions/ServerReceiveFile.java" />
+        <option value="$PROJECT_DIR$/../VirtualChatRoomServer/src/model/ServerReceiveFile.java" />
+        <option value="$PROJECT_DIR$/src/bean/Message.java" />
+        <option value="$PROJECT_DIR$/../VirtualChatRoomServer/src/bean/Message.java" />
+        <option value="$PROJECT_DIR$/../VirtualChatRoomServer/src/model/ClientTranserFile.java" />
+        <option value="$PROJECT_DIR$/../VirtualChatRoomServer/src/model/ServerConClientThread.java" />
+        <option value="$PROJECT_DIR$/src/model/ServerReceiveFile.java" />
+        <option value="$PROJECT_DIR$/../VirtualChatRoomServer/src/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/frame/LoginFrame.java" />
+        <option value="$PROJECT_DIR$/src/tools/ManageChat.java" />
+        <option value="$PROJECT_DIR$/src/tools/ClientConServerThread.java" />
+        <option value="$PROJECT_DIR$/src/frame/RegistFrame.java" />
+        <option value="$PROJECT_DIR$/src/frame/MainFrame.java" />
+        <option value="$PROJECT_DIR$/src/frame/ChatFrame.java" />
+        <option value="$PROJECT_DIR$/src/frame/AddNewFriend.java" />
+        <option value="$PROJECT_DIR$/src/tools/MD5.java" />
+        <option value="$PROJECT_DIR$/src/frame/FrameTools/DialogFrame.java" />
+        <option value="$PROJECT_DIR$/src/frame/FrameTools/MySystemTray.java" />
+        <option value="$PROJECT_DIR$/src/frame/FrameTools/ShakeFrame.java" />
+        <option value="$PROJECT_DIR$/../VirtualChatRoomServer/src/dao/DAO.java" />
+        <option value="$PROJECT_DIR$/../VirtualChatRoomServer/src/frame/MyServerFrame.java" />
+        <option value="$PROJECT_DIR$/../VirtualChatRoomServer/src/model/MD5.java" />
+        <option value="$PROJECT_DIR$/../VirtualChatRoomServer/src/model/MyRegisterServer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="1933" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="VirtualChatRoom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VirtualChatRoom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VirtualChatRoom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VirtualChatRoom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VirtualChatRoom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VirtualChatRoom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="frame" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VirtualChatRoom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VirtualChatRoom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="frame" type="462c0819:PsiDirectoryNode" />
+              <item name="FrameTools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VirtualChatRoom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VirtualChatRoom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VirtualChatRoom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VirtualChatRoom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VirtualChatRoom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VirtualChatRoomServer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VirtualChatRoom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VirtualChatRoomServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VirtualChatRoom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VirtualChatRoomServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VirtualChatRoom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VirtualChatRoomServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VirtualChatRoom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VirtualChatRoomServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="frame" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VirtualChatRoom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VirtualChatRoomServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Functions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VirtualChatRoom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VirtualChatRoomServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="frame.FrameTools" />
+      <recent name="model" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="model" />
+      <recent name="frame" />
+      <recent name="bean" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\java study\VirtualChatRoom\src\frame\image" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.LoginFrame">
+    <configuration name="ChatFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="frame.ChatFrame" />
+      <module name="VirtualChatRoom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="frame.FrameTools.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginFrame" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="frame.LoginFrame" />
+      <module name="VirtualChatRoom" />
+      <option name="VM_PARAMETERS" value="-Dfile.encoding=GB18030" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="frame.FrameTools.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MD5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tools.MD5" />
+      <module name="VirtualChatRoom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tools.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="frame.MainFrame" />
+      <module name="VirtualChatRoom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="frame.FrameTools.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyRegisterFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="frame.MyRegisterFrame" />
+      <module name="VirtualChatRoomServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="frame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyServerFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="frame.MyServerFrame" />
+      <module name="VirtualChatRoomServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="frame.FrameTools.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LoginFrame" />
+      <item itemvalue="Application.MyServerFrame" />
+      <item itemvalue="Application.MainFrame" />
+      <item itemvalue="Application.ChatFrame" />
+      <item itemvalue="Application.MD5" />
+      <item itemvalue="Application.MyRegisterFrame" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyRegisterFrame" />
+        <item itemvalue="Application.MyServerFrame" />
+        <item itemvalue="Application.MD5" />
+        <item itemvalue="Application.ChatFrame" />
+        <item itemvalue="Application.MainFrame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06816f48-73b6-4360-911d-802433c307c0" name="Default Changelist" comment="" />
+      <created>1560157604763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560157604763</updated>
+      <workItem from="1560157606391" duration="2457000" />
+      <workItem from="1560180862917" duration="13353000" />
+      <workItem from="1560249724439" duration="15559000" />
+      <workItem from="1560265802051" duration="9000" />
+      <workItem from="1560265883183" duration="112000" />
+      <workItem from="1560267179568" duration="333000" />
+      <workItem from="1560267725485" duration="7112000" />
+      <workItem from="1560295778610" duration="8803000" />
+      <workItem from="1560336043549" duration="22752000" />
+      <workItem from="1560359035312" duration="237000" />
+      <workItem from="1560359461353" duration="70000" />
+      <workItem from="1560360125752" duration="3488000" />
+      <workItem from="1560446468416" duration="7119000" />
+      <workItem from="1560461442712" duration="97000" />
+      <workItem from="1560461669936" duration="6036000" />
+      <workItem from="1560467831856" duration="71000" />
+      <workItem from="1560478449775" duration="98000" />
+      <workItem from="1560508855788" duration="117000" />
+      <workItem from="1560521001457" duration="4817000" />
+      <workItem from="1560526734817" duration="246000" />
+      <workItem from="1560553331588" duration="17250000" />
+      <workItem from="1560611228098" duration="1274000" />
+      <workItem from="1560657424422" duration="10696000" />
+      <workItem from="1560671537911" duration="8585000" />
+      <workItem from="1560690325345" duration="8377000" />
+      <workItem from="1560703464953" duration="9147000" />
+      <workItem from="1560730109692" duration="70000" />
+      <workItem from="1560733578676" duration="1982000" />
+      <workItem from="1560773559492" duration="119000" />
+      <workItem from="1561047616685" duration="3616000" />
+      <workItem from="1561185582202" duration="1301000" />
+      <workItem from="1561186886803" duration="6000" />
+      <workItem from="1561186911346" duration="8188000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="163497000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19083156" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.3261105" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010661" side_tool="true" weight="0.40628386" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/frame/FrameTools/HorseRaceLight.java" />
+    <entry file="file://$PROJECT_DIR$/src/frame/FrameTools/TestRoll.java" />
+    <entry file="file://$PROJECT_DIR$/src/frame/FrameTools/MyTf.java" />
+    <entry file="file://$PROJECT_DIR$/src/frame/FrameTools/ThreadGroupUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/frame/FrameTools/HorseRaceLightJtextField.java" />
+    <entry file="jar://F:/JDK/src.zip!/javax/swing/event/MouseInputListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VirtualChatRoomServer/src/dao/ReturnAllOnlineFriendInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#733#734#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VirtualChatRoomServer/src/bean/MessageType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VirtualChatRoomServer/src/Functions/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+          <folding>
+            <element signature="e#0#2272#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bean/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
+          <folding>
+            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#653#654#0" expanded="true" />
+            <element signature="e#684#685#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VirtualChatRoomServer/src/model/ServerReceiveFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="38" column="42" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VirtualChatRoomServer/src/model/ClientTranserFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tools/ManageFirendList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+          <folding>
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#729#730#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/JDK/src.zip!/java/awt/Checkbox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="75" column="13" selection-start-line="75" selection-start-column="13" selection-end-line="75" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VirtualChatRoomServer/src/model/ClientUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <folding>
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/ClientTranserFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="835">
+          <caret line="53" column="27" selection-start-line="53" selection-start-column="27" selection-end-line="53" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chatHistory.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54145" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chatHistory.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/ClientUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <folding>
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tools/ManageChat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bean/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bean/MessageType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VirtualChatRoomServer/src/model/CheckTableExists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VirtualChatRoomServer/src/model/ClientConServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/model.ServerConClientThread">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>model.ServerConClientThread</OriginalElement>
+          <nodes>
+            <node x="" y="">java.lang.FunctionalInterface</node>
+            <node x="" y="">model.ServerConClientThread</node>
+            <node x="" y="">java.lang.Thread</node>
+            <node x="" y="">java.lang.Runnable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="117.5" y="133.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/JDK/src.zip!/java/lang/Override.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="50" column="18" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/tools.ClientConServerThread">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>tools.ClientConServerThread</OriginalElement>
+          <nodes>
+            <node x="" y="">java.lang.FunctionalInterface</node>
+            <node x="" y="">java.lang.Thread</node>
+            <node x="" y="">java.lang.Runnable</node>
+            <node x="" y="">tools.ClientConServerThread</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="117.5" y="133.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/frame.ChatFrame">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>frame.ChatFrame</OriginalElement>
+          <nodes>
+            <node x="" y="">java.awt.Container.WakingRunnable</node>
+            <node x="" y="">java.awt.Container.MouseEventTargetFilter</node>
+            <node x="" y="">java.awt.event.FocusListener</node>
+            <node x="" y="">java.awt.event.KeyListener</node>
+            <node x="" y="">java.awt.Component.DummyRequestFocusController</node>
+            <node x="" y="">java.awt.event.ActionListener</node>
+            <node x="" y="">java.awt.Component.BaselineResizeBehavior</node>
+            <node x="" y="">javax.swing.TransferHandler.HasGetTransferHandler</node>
+            <node x="" y="">java.awt.image.ImageObserver</node>
+            <node x="" y="">java.awt.Component.FlipBufferStrategy</node>
+            <node x="" y="">java.awt.Window.Type</node>
+            <node x="" y="">java.awt.Component.AccessibleAWTComponent</node>
+            <node x="" y="">java.awt.Component.BltBufferStrategy</node>
+            <node x="" y="">frame.ChatFrame</node>
+            <node x="" y="">java.awt.Component.FlipSubRegionBufferStrategy</node>
+            <node x="" y="">java.awt.Component.ProxyCapabilities</node>
+            <node x="" y="">java.awt.Component.SingleBufferStrategy</node>
+            <node x="" y="">java.awt.Container.AccessibleAWTContainer</node>
+            <node x="" y="">java.awt.Container</node>
+            <node x="" y="">java.awt.Container.DropTargetEventTargetFilter</node>
+            <node x="" y="">javax.swing.JFrame</node>
+            <node x="" y="">java.awt.Component.BltSubRegionBufferStrategy</node>
+            <node x="" y="">java.awt.event.MouseListener</node>
+            <node x="" y="">java.awt.Window.WindowDisposerRecord</node>
+            <node x="" y="">java.awt.Frame</node>
+            <node x="" y="">java.awt.Window</node>
+            <node x="" y="">javax.swing.RootPaneContainer</node>
+            <node x="" y="">java.awt.MenuContainer</node>
+            <node x="" y="">java.awt.Frame.AccessibleAWTFrame</node>
+            <node x="" y="">javax.accessibility.Accessible</node>
+            <node x="" y="">java.awt.Container.AccessibleAWTContainer.AccessibleContainerHandler</node>
+            <node x="" y="">java.awt.Component</node>
+            <node x="" y="">java.awt.Container.EventTargetFilter</node>
+            <node x="" y="">java.io.Serializable</node>
+            <node x="" y="">java.awt.Component.AWTTreeLock</node>
+            <node x="" y="">java.awt.Component.AccessibleAWTComponent.AccessibleAWTComponentHandler</node>
+            <node x="" y="">java.util.EventListener</node>
+            <node x="" y="">java.awt.Window.AccessibleAWTWindow</node>
+            <node x="" y="">java.awt.Component.AccessibleAWTComponent.AccessibleAWTFocusHandler</node>
+            <node x="" y="">javax.swing.WindowConstants</node>
+            <node x="" y="">javax.swing.JFrame.AccessibleJFrame</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.8363411619283065" x="842.7308601832693" y="14598.339934968963" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Inner Classes</Category>
+            <Category>Properties</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tools/ManageClientConServerThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+          <folding>
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VirtualChatRoomServer/src/model/MyServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VirtualChatRoomServer/src/model/ManageClientThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding>
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tools/ClientConServerThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="55" column="17" selection-end-line="158" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/ClientConServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="17" column="29" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VirtualChatRoomServer/src/bean/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="18" selection-end-line="130" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VirtualChatRoomServer/src/model/ServerConClientThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="53" lean-forward="true" selection-end-line="371" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VirtualChatRoomServer/src/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1634">
+          <caret line="86" column="25" lean-forward="true" selection-start-line="86" selection-start-column="25" selection-end-line="86" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/ServerReceiveFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frame/RegistFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="4" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frame/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="64" column="7" selection-start-line="62" selection-start-column="3" selection-end-line="64" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frame/ChatFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="56" column="2" selection-start-line="56" selection-end-line="58" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frame/AddNewFriend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tools/MD5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" column="7" selection-start-line="33" selection-end-line="40" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frame/FrameTools/DialogFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="7" selection-start-line="8" selection-start-column="4" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frame/FrameTools/MySystemTray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="87" column="5" selection-start-line="87" selection-start-column="3" selection-end-line="89" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frame/FrameTools/ShakeFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="1" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VirtualChatRoomServer/src/dao/DAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="707">
+          <caret line="44" column="5" selection-start-line="44" selection-start-column="3" selection-end-line="46" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VirtualChatRoomServer/src/model/MD5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" column="7" selection-start-line="34" selection-start-column="2" selection-end-line="40" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VirtualChatRoomServer/src/model/MyRegisterServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="4" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VirtualChatRoomServer/src/frame/MyRegisterFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VirtualChatRoomServer/src/frame/MyServerFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frame/LoginFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>VirtualChatRoom</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
